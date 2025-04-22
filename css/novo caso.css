@@ -4,6 +4,10 @@ body {
   background-color: #F1EFEC;
 }
 
+header {
+  z-index: 999;
+}
+
 .menu-lateral {
   position: fixed;
   top: 55%;
